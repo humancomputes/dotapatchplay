@@ -5,10 +5,10 @@ In DotA the players are foremost supplied with a set of Heroes and Items, a map 
 
 Around this basic supply of game utensils there are several layers to increase activity with the platform and bind players. With about 400.000 online players around the clock [[1]] and with an overall  median of 1633 hours [[2]] a user spend playing  ( which in some cases goes up to 60.000 hours [[3]] ). So they are top notch in having peoples attention.
 
-<img src="figures/dota2_minimap.png", alt="DotA 2 Minimap">
+!["DotA 2 Minimap](figures/dota2_minimap.png)
 
-[![GitHub version](https://github.com/humancomputes/dotapatchplay/)](https://github.com/humancomputes/dotapatchplay/)
-# Soon moore...
+
+# Soon more...
 
 [1]:https://steamcharts.com/app/570#All 
 [2]:https://howlongis.io/app/570/Dota+2 
