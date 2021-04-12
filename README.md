@@ -22,7 +22,7 @@ Around this basic supply of game utensils there are several layers to increase a
 [2]:https://howlongis.io/app/570/Dota+2 
 [3]:https://steamladder.com/ladder/playtime/570/ 
 
-[Dataset Describtion]: dataset/readme.md "Dataset Describtion"
+[Dataset Describtion]: dataset/ "Dataset Describtion"
 
 
 [img1]: figures/dota2_minimap.png "DotA2-Minimap Link"
