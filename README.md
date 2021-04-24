@@ -11,22 +11,12 @@
 
 4. Herodata
 	1. Descriptive statistics
-	2. Hero performance form singlecombo data
+	2. Modeling Patch differences with 'official' hero data (kills, deaths, assits, gold per minute,...)
 5. Combodata 
-	1. Descriptive statistics
-	2. Hero performance 
-	3.[Heroperformance Singlecombo + combooutlier data]
-6. Combination
-	1.[Heroperformance Official + Singlecombo + combooutlier data]
-  
-[Official Descriptive statistics]
-[Heroperformance Official]
+	1. Combodata description (hero stats extracted from combo data)
+	2. Modeling Patch differences with combodata 
+	3. Modeling Patch differences with official herodata and combodata 
 
-
-[Combodata Descriptive statistics]
-[Heroperformance Singlecombo ]
-[Heroperformance Multicombo]
-[Heroperformance Combination]
 
 
 
