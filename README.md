@@ -1,22 +1,32 @@
 ## DotA2 Patch Play ##
 
+*Disclaimer: Here i publish research from my master thesis at the Rijksuniversiteit Groningen, about the influence of popular, repeated and successful combinations of hero actions on the Dota 2 patches [Link when it is online]*  
+
 ### Content ###
 1. [Introduction](#introduction)
 2. [Dota Basics](#dota-2-basics)
-3. [Dataset Describtion][Dataset Describtion]
+3. [Dataset Description][Dataset Describtion]
 
-added soon vvv 
+*added soon vvv* 
 
-4. Gamedata
-	1.[Descriptive statistics]
-	2.[Heroperformance]
+4. Herodata
+	1. Descriptive statistics
+	2. Hero performance form singlecombo data
 5. Combodata 
-	1.[Descriptive statistics]
-	2.[Hero performance form singlecombo data]
+	1. Descriptive statistics
+	2. Hero performance 
 	3.[Heroperformance Singlecombo + combooutlier data]
 6. Combination
 	1.[Heroperformance Official + Singlecombo + combooutlier data]
   
+[Official Descriptive statistics]
+[Heroperformance Official]
+
+
+[Combodata Descriptive statistics]
+[Heroperformance Singlecombo ]
+[Heroperformance Multicombo]
+[Heroperformance Combination]
 
 
 
@@ -69,6 +79,7 @@ In order to keep all the players attentive, motivated and spending, there are ga
 [1]:https://dota2.prizetrac.kr/international10
 
 [Dataset Describtion]: dataset/ "Dataset Description"
+
 
 
 [img1]: figures/dota2_minimap.png "DotA2-Minimap Link"
