@@ -7,14 +7,14 @@
 
 added soon vvv 
 
-2. Gamedata
-	1.[Descriptive statistics][Official Descriptive statistics]
+4. Gamedata
+	1.[Descriptive statistics] [//]: # ([Official Descriptive statistics])
 	2.[Heroperformance][Heroperformance Official]
-3. Combodata 
+5. Combodata 
 	1.[Descriptive statistics][Combodata Descriptive statistics]
 	2.[Hero performance form singlecombo data][Heroperformance Singlecombo ]
 	3.[Heroperformance Singlecombo + combooutlier data][Heroperformance Multicombo]
-4. Combination
+6. Combination
 	1.[Heroperformance Official + Singlecombo + combooutlier data][Heroperformance Combination]
   
 
