@@ -8,14 +8,14 @@
 added soon vvv 
 
 4. Gamedata
-	1.[Descriptive statistics] [//]: # ([Official Descriptive statistics])
-	2.[Heroperformance][Heroperformance Official]
+	1.[Descriptive statistics]
+	2.[Heroperformance]
 5. Combodata 
-	1.[Descriptive statistics][Combodata Descriptive statistics]
-	2.[Hero performance form singlecombo data][Heroperformance Singlecombo ]
-	3.[Heroperformance Singlecombo + combooutlier data][Heroperformance Multicombo]
+	1.[Descriptive statistics]
+	2.[Hero performance form singlecombo data]
+	3.[Heroperformance Singlecombo + combooutlier data]
 6. Combination
-	1.[Heroperformance Official + Singlecombo + combooutlier data][Heroperformance Combination]
+	1.[Heroperformance Official + Singlecombo + combooutlier data]
   
 
 
@@ -69,15 +69,6 @@ In order to keep all the players attentive, motivated and spending, there are ga
 [1]:https://dota2.prizetrac.kr/international10
 
 [Dataset Describtion]: dataset/ "Dataset Description"
-
-[Official Descriptive statistics]
-[Heroperformance Official]
-
-
-[Combodata Descriptive statistics]
-[Heroperformance Singlecombo ]
-[Heroperformance Multicombo]
-[Heroperformance Combination]
 
 
 [img1]: figures/dota2_minimap.png "DotA2-Minimap Link"
