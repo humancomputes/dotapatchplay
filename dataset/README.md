@@ -13,10 +13,9 @@ To get the competitive matches and the Urls of the replay-files i scraped *datdo
 This is the initial list of matches i got from scraping *datdota*. The patch statistics are quite irregular. Starting from the pure amount of matches, the time span between the updates, the mean games per game days and insofar the match intensity within a patch. This also comes from a trial go away from major to more regularly minor Patches between the beginning of 2017 and and mid 2018. This can be seen in the lower match numbers in this Update circles.
 
 ```
-				 matches			 days
-                	 sum  mean   std  max
-
-patch		date                               
+                 matches             days
+                     sum  mean   std  max
+patch       date                               
 6.85  2015-09-24    1622  19.5  12.4   82
 6.86  2015-12-16    2453  19.2  15.5  130
 6.87  2016-04-25    1449  32.9  41.7   45
