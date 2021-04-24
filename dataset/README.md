@@ -7,10 +7,11 @@ Since this research is about the influence of popular, repeated and successful c
 ### Scraping Data ###
 To get the competitive matches and the Urls of the replay-files i scraped *datdotas* archives through their API and got 32072 matches from 207 tournaments between 2015 and the beginning of April of 2021, when the latest patch 7.29 was published. I choose not to go later than patch 6.85 because in the summer of 2015 Dota 2 was ported to Valves Source 2 graphic engine, and with that also the replay files framework changed. 
 
+![Dataset-Match-Distributions][img1]
 
 #### Dataset Patch Statistics ####
 This is the initial list of matches i got from scraping *datdota*. The patch statistics are quite irregular. Starting from the pure amount of matches, the time span between the updates, the mean games per game days and insofar the match intensity within a patch. This also comes from a trial go away from major to more regularly minor Patches between the beginning of 2017 and and mid 2018. This can be seen in the lower match numbers in this Update circles.
-![Dataset-Match-Distributions][img1]
+
 ```
 		            		matches	                       days
 		                	 sum  mean   std  max
@@ -51,7 +52,7 @@ This is the initial list of matches i got from scraping *datdota*. The patch sta
 		7.28  2020-12-18    1712  17.0   9.2  113
 		7.29  2021-04-09      26   6.5   4.7    3
 ```
-[img1]: ../figures/patchmatches_dist.png "Dataset-Match-Distributions"
+
 
 
 [1]:https://github.com/skadistats/clarity
