@@ -2,8 +2,9 @@
 
 ### Content ###
 1. [Introduction](#introduction)
+2. [Dota Basics](#dota-basics)
 2. Gamedata
-	1.[Descriptive statistics][[Official Descriptive statistics]
+	1.[Descriptive statistics][Official Descriptive statistics]
 	2.[Heroperformance][Heroperformance Official]
 3. Combodata 
 	1.[Descriptive statistics][Combodata Descriptive statistics]
